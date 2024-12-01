@@ -1,0 +1,9 @@
+{
+    "Telegram-API-token": "YOUR API TOKEN",
+    "Telegram-Target-Chat": "YOUR TARGET CHAT ID",
+    "send-notification-if-no-new-code": false,
+
+    "message-no-codes": "SW Coupon Code Notifier\n\nThere are no new codes.",
+    "message-new-codes-header": "SW Coupon Code Notifier\n\n",
+    "message-new-codes-body": "Coupon Code: {code}\n"
+}
